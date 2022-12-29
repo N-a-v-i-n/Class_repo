@@ -15,7 +15,7 @@ print(int("22")) # o/p --> 22
 # print(int("ajdncn")) # Error, because value contain in string and cannot be changed
 print(int(True))  # o/p --> 1 , Since in boolen True = 1 & False = 0
 # print(int("10.30")) # o/p --> error, because it converts values with base-10 only
-#
+
 
 print(float(22)) # o/p --> 22.0
 print(float("10.30")) # o/p --> 10.30
